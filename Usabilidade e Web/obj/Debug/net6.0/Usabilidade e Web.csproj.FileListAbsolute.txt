@@ -1,0 +1,5 @@
+C:\Users\Solides\Documents\Usabilidade, Desenv. Web, Mobile e Jogos\Usabilidade e Web\obj\Debug\net6.0\Usabilidade e Web.csproj.AssemblyReference.cache
+C:\Users\Solides\Documents\Usabilidade, Desenv. Web, Mobile e Jogos\Usabilidade e Web\obj\Debug\net6.0\Usabilidade e Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solides\Documents\Usabilidade, Desenv. Web, Mobile e Jogos\Usabilidade e Web\obj\Debug\net6.0\Usabilidade e Web.AssemblyInfoInputs.cache
+C:\Users\Solides\Documents\Usabilidade, Desenv. Web, Mobile e Jogos\Usabilidade e Web\obj\Debug\net6.0\Usabilidade e Web.AssemblyInfo.cs
+C:\Users\Solides\Documents\Usabilidade, Desenv. Web, Mobile e Jogos\Usabilidade e Web\obj\Debug\net6.0\Usabilidade e Web.csproj.CoreCompileInputs.cache

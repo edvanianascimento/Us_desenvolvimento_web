@@ -1,0 +1,30 @@
+/*linkar o estilo css*/
+
+html,
+body {
+  font-size: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+  width: 20rem;
+  height: 12rem;
+  background-color: orangered;
+  margin: 5rem auto;
+}
+
+h1 {
+  color: white;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+li {
+  color: #ebe8e8
+}
+
+/*
+ margin: x; x = topo, baixo, esquerda e direita.
+ margin: x y; x = topo e baixo; y = esquerda e direita.
+ margin: x y z w; x = topo, y = direita, z = baixo, w = esquerda.
+ */
